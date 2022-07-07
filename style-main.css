@@ -1,0 +1,13 @@
+.navbar-header{
+    padding-left: 20px;
+}
+.navbar-right{
+    padding-right: 30px;
+}
+.jumbotron{
+    padding: 10px;
+}
+.jumbotron-inside{
+    padding: 10px;
+    margin: 10px;
+}
